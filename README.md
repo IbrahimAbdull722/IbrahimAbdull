@@ -42,6 +42,12 @@ As a Cyber Security Engineer, I focus on implementing robust cybersecurity measu
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</div>
+
 ### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Nessus-339933?&style=for-the-badge&logo=Tenable&logoColor=white" />
