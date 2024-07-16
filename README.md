@@ -66,6 +66,6 @@ As a Cyber Security Engineer, I focus on implementing robust cybersecurity measu
 
 
 ## Projects
-- Vulnerability Management
 - Detection Lab
 - SOC Automation Project
+- Vulnerability Management
