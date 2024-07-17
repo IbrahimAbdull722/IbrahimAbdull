@@ -8,7 +8,6 @@ I am a Cyber Security Engineer with a profound interest in technology and a dedi
 As a Cyber Security Engineer, I focus on implementing robust cybersecurity measures through my expertise in vulnerability management, penetration testing, and incident response. My goal is to contribute to innovative solutions that safeguard digital infrastructures against evolving threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,6 @@ As a Cyber Security Engineer, I focus on implementing robust cybersecurity measu
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -54,7 +52,6 @@ As a Cyber Security Engineer, I focus on implementing robust cybersecurity measu
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
 <div>
     <img src="https://img.shields.io/badge/-CISM-4B0082?&style=for-the-badge" />
